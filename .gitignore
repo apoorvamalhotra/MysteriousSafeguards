@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.vscode
+*.vs
+*.in
+!requirements.txt
+*.txt
